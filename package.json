@@ -1,0 +1,23 @@
+{
+  "name": "ifcjs-crashcourse",
+  "version": "1.0.0",
+  "description": "All files that i create during the ifc-js crashcourse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurindominik/ifcjs-crashcourse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurindominik/ifcjs-crashcourse/issues"
+  },
+  "homepage": "https://github.com/laurindominik/ifcjs-crashcourse#readme",
+  "dependencies": {
+    "three": "^0.145.0"
+  }
+}
